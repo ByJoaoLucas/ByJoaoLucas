@@ -16,6 +16,14 @@
 
 <h3>🚀 My Recent Projects ~</h3>
 
+<div align="left">
+
+ <a href="https://study-planner-dotolist.vercel.app/">
+  <img src="https://img.shields.io/badge/Study%20Planner-F05033?style=for-the-badge">
+ </a>
+ 
+</div>
+
 #
  
 <h3>✨ My Stack ~</h3>
@@ -35,7 +43,7 @@
   <h4>🧰 Frameworks and Libraries</h4>
    
    <div>
-      <img  alt="apollo-client logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" />
+      <img alt="apollo-client logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apollographql/apollographql-original.svg" />
       <img alt="axios logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
       <img alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <img alt="react-router logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
